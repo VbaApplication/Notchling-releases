@@ -3,6 +3,18 @@
     <channel>
         <title>Notchling</title>
         <item>
+            <title>0.6.1-beta.1</title>
+            <pubDate>Sat, 31 Oct 2026 10:43:32 +0000</pubDate>
+            <sparkle:version>147</sparkle:version>
+            <sparkle:shortVersionString>0.6.1-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Notchling 0.6.1 beta 1</p>
+<p>Fixed: the Mirror widget now uses the Mac&#x27;s built-in camera instead of a nearby iPhone.</p>
+<p>Corretto: il widget Specchio ora usa la camera integrata del Mac invece dell&#x27;iPhone vicino.</p>
+]]></description>
+            <enclosure url="https://github.com/VbaApplication/Notchling-releases/releases/download/v0.6.1-beta.1/Notchling-0.6.1-beta.1.dmg" length="4379679" type="application/octet-stream" sparkle:edSignature="6UsdiLAgRyLWkKHr2/S7cXZO8Z7mrKGRzIEg1SUtq3sDkPt3bXT+wULlUB2Zg8k1ORz8DURydyfYFFzE6OzCCw=="/>
+        </item>
+        <item>
             <title>0.6.0-beta.1</title>
             <pubDate>Fri, 02 Oct 2026 15:56:35 +0000</pubDate>
             <sparkle:version>138</sparkle:version>
